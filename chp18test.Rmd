@@ -2,7 +2,8 @@
 title: "Chp 18 Git"
 author: "Isabel Ramos"
 date: "2022-10-07"
-output: html_document
+output: html_document:
+ 
 ---
 
 ```{r setup, include=FALSE}
